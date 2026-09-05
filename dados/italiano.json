@@ -6,10 +6,24 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-05T16:28:21.709Z",
+ "atualizado": "2026-09-05T18:30:11.884Z",
  "classificacao": [
   {
    "posicao": 1,
+   "grupo": "",
+   "time": "Inter de Milão",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+   "pontos": 9,
+   "jogos": 3,
+   "vitorias": 3,
+   "empates": 0,
+   "derrotas": 0,
+   "golsPro": 8,
+   "golsContra": 3,
+   "saldo": 5
+  },
+  {
+   "posicao": 2,
    "grupo": "",
    "time": "Como",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
@@ -23,7 +37,7 @@
    "saldo": 4
   },
   {
-   "posicao": 2,
+   "posicao": 3,
    "grupo": "",
    "time": "Roma",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
@@ -35,20 +49,6 @@
    "golsPro": 8,
    "golsContra": 0,
    "saldo": 8
-  },
-  {
-   "posicao": 3,
-   "grupo": "",
-   "time": "Inter de Milão",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-   "pontos": 6,
-   "jogos": 2,
-   "vitorias": 2,
-   "empates": 0,
-   "derrotas": 0,
-   "golsPro": 5,
-   "golsContra": 1,
-   "saldo": 4
   },
   {
    "posicao": 4,
@@ -140,13 +140,13 @@
    "time": "Napoli",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
    "pontos": 3,
-   "jogos": 2,
+   "jogos": 3,
    "vitorias": 1,
    "empates": 0,
-   "derrotas": 1,
-   "golsPro": 3,
-   "golsContra": 2,
-   "saldo": 1
+   "derrotas": 2,
+   "golsPro": 5,
+   "golsContra": 5,
+   "saldo": 0
   },
   {
    "posicao": 11,
@@ -730,10 +730,10 @@
    "visitante": "Napoli",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "First Half",
+   "golsMandante": 3,
+   "golsVisitante": 2,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"

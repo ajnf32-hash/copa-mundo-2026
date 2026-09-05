@@ -6,7 +6,7 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-05T16:28:21.099Z",
+ "atualizado": "2026-09-05T18:30:10.824Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -939,15 +939,15 @@
    "visitante": "Racing Santander",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Scheduled",
+   "golsMandante": 3,
+   "golsVisitante": 2,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
    ],
-   "conferencia": "confirmado"
+   "conferencia": "sozinho"
   },
   {
    "data": "2026-09-05",

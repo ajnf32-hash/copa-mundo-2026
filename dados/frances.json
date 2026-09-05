@@ -6,7 +6,7 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-05T16:28:22.954Z",
+ "atualizado": "2026-09-05T18:30:13.928Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -95,16 +95,16 @@
   {
    "posicao": 7,
    "grupo": "",
-   "time": "Lens",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-   "pontos": 3,
-   "jogos": 2,
+   "time": "Lorient",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+   "pontos": 4,
+   "jogos": 3,
    "vitorias": 1,
-   "empates": 0,
+   "empates": 1,
    "derrotas": 1,
-   "golsPro": 6,
-   "golsContra": 4,
-   "saldo": 2
+   "golsPro": 2,
+   "golsContra": 2,
+   "saldo": 0
   },
   {
    "posicao": 8,
@@ -123,6 +123,20 @@
   {
    "posicao": 9,
    "grupo": "",
+   "time": "Lens",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+   "pontos": 3,
+   "jogos": 3,
+   "vitorias": 1,
+   "empates": 0,
+   "derrotas": 2,
+   "golsPro": 6,
+   "golsContra": 5,
+   "saldo": 1
+  },
+  {
+   "posicao": 10,
+   "grupo": "",
    "time": "Angers",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
    "pontos": 3,
@@ -135,7 +149,7 @@
    "saldo": 0
   },
   {
-   "posicao": 10,
+   "posicao": 11,
    "grupo": "",
    "time": "Strasbourg",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
@@ -149,7 +163,7 @@
    "saldo": -3
   },
   {
-   "posicao": 11,
+   "posicao": 12,
    "grupo": "",
    "time": "Brest",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
@@ -163,7 +177,7 @@
    "saldo": 0
   },
   {
-   "posicao": 12,
+   "posicao": 13,
    "grupo": "",
    "time": "Paris Saint-Germain",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
@@ -177,7 +191,7 @@
    "saldo": -1
   },
   {
-   "posicao": 13,
+   "posicao": 14,
    "grupo": "",
    "time": "Le Mans",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
@@ -188,20 +202,6 @@
    "derrotas": 1,
    "golsPro": 4,
    "golsContra": 5,
-   "saldo": -1
-  },
-  {
-   "posicao": 14,
-   "grupo": "",
-   "time": "Lorient",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-   "pontos": 1,
-   "jogos": 2,
-   "vitorias": 0,
-   "empates": 1,
-   "derrotas": 1,
-   "golsPro": 1,
-   "golsContra": 2,
    "saldo": -1
   },
   {
@@ -680,10 +680,10 @@
    "visitante": "Lorient",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "In Progress",
+   "golsMandante": 0,
+   "golsVisitante": 1,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
