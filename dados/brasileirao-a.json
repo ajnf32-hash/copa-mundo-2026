@@ -6,7 +6,7 @@
  "temporada": 2026,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-05T20:37:06.879Z",
+ "atualizado": "2026-09-05T22:30:02.713Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -53,6 +53,20 @@
   {
    "posicao": 4,
    "grupo": "",
+   "time": "Bahia",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
+   "pontos": 43,
+   "jogos": 26,
+   "vitorias": 11,
+   "empates": 10,
+   "derrotas": 5,
+   "golsPro": 40,
+   "golsContra": 32,
+   "saldo": 8
+  },
+  {
+   "posicao": 5,
+   "grupo": "",
    "time": "Fluminense",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
    "pontos": 42,
@@ -62,20 +76,6 @@
    "derrotas": 5,
    "golsPro": 39,
    "golsContra": 32,
-   "saldo": 7
-  },
-  {
-   "posicao": 5,
-   "grupo": "",
-   "time": "Bahia",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
-   "pontos": 40,
-   "jogos": 25,
-   "vitorias": 10,
-   "empates": 10,
-   "derrotas": 5,
-   "golsPro": 37,
-   "golsContra": 30,
    "saldo": 7
   },
   {
@@ -126,13 +126,13 @@
    "time": "Red Bull Bragantino",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
    "pontos": 35,
-   "jogos": 24,
+   "jogos": 25,
    "vitorias": 10,
    "empates": 5,
-   "derrotas": 9,
-   "golsPro": 29,
-   "golsContra": 25,
-   "saldo": 4
+   "derrotas": 10,
+   "golsPro": 31,
+   "golsContra": 28,
+   "saldo": 3
   },
   {
    "posicao": 10,
@@ -4338,10 +4338,10 @@
    "visitante": "Bahia",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Scheduled",
+   "golsMandante": 2,
+   "golsVisitante": 3,
+   "encerrado": true,
+   "situacao": "Full Time",
    "conferencia": "sozinho",
    "fontes": [
     "espn"
@@ -4360,7 +4360,7 @@
    "golsMandante": null,
    "golsVisitante": null,
    "encerrado": false,
-   "situacao": "Scheduled",
+   "situacao": "Halftime",
    "fontes": [
     "espn",
     "fotmob"

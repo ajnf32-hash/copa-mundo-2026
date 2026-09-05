@@ -6,7 +6,7 @@
  "temporada": 2026,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-05T20:37:14.487Z",
+ "atualizado": "2026-09-05T22:30:13.190Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -25,6 +25,20 @@
   {
    "posicao": 2,
    "grupo": "",
+   "time": "Novorizontino",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/18127.png",
+   "pontos": 46,
+   "jogos": 26,
+   "vitorias": 13,
+   "empates": 7,
+   "derrotas": 6,
+   "golsPro": 44,
+   "golsContra": 23,
+   "saldo": 21
+  },
+  {
+   "posicao": 3,
+   "grupo": "",
    "time": "Juventude",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
    "pontos": 46,
@@ -37,7 +51,7 @@
    "saldo": 13
   },
   {
-   "posicao": 3,
+   "posicao": 4,
    "grupo": "",
    "time": "Vila Nova",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
@@ -51,21 +65,21 @@
    "saldo": 7
   },
   {
-   "posicao": 4,
+   "posicao": 5,
    "grupo": "",
-   "time": "Novorizontino",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/18127.png",
-   "pontos": 43,
-   "jogos": 25,
+   "time": "Fortaleza",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
+   "pontos": 44,
+   "jogos": 26,
    "vitorias": 12,
-   "empates": 7,
+   "empates": 8,
    "derrotas": 6,
-   "golsPro": 41,
+   "golsPro": 29,
    "golsContra": 22,
-   "saldo": 19
+   "saldo": 7
   },
   {
-   "posicao": 5,
+   "posicao": 6,
    "grupo": "",
    "time": "CRB",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/9970.png",
@@ -77,20 +91,6 @@
    "golsPro": 40,
    "golsContra": 36,
    "saldo": 4
-  },
-  {
-   "posicao": 6,
-   "grupo": "",
-   "time": "Fortaleza",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-   "pontos": 41,
-   "jogos": 25,
-   "vitorias": 11,
-   "empates": 8,
-   "derrotas": 6,
-   "golsPro": 28,
-   "golsContra": 22,
-   "saldo": 6
   },
   {
    "posicao": 7,
@@ -168,13 +168,13 @@
    "time": "Goiás",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/3395.png",
    "pontos": 36,
-   "jogos": 25,
+   "jogos": 26,
    "vitorias": 10,
    "empates": 6,
-   "derrotas": 9,
+   "derrotas": 10,
    "golsPro": 25,
-   "golsContra": 30,
-   "saldo": -5
+   "golsContra": 31,
+   "saldo": -6
   },
   {
    "posicao": 13,
@@ -224,13 +224,13 @@
    "time": "Avaí",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
    "pontos": 29,
-   "jogos": 25,
+   "jogos": 26,
    "vitorias": 8,
    "empates": 5,
-   "derrotas": 12,
-   "golsPro": 27,
-   "golsContra": 31,
-   "saldo": -4
+   "derrotas": 13,
+   "golsPro": 28,
+   "golsContra": 34,
+   "saldo": -6
   },
   {
    "posicao": 17,
@@ -5139,10 +5139,10 @@
    "visitante": "Fortaleza",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3395.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Scheduled",
+   "golsMandante": 0,
+   "golsVisitante": 1,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
@@ -5159,10 +5159,10 @@
    "visitante": "Avaí",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/18127.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Scheduled",
+   "golsMandante": 3,
+   "golsVisitante": 1,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
@@ -5182,7 +5182,7 @@
    "golsMandante": null,
    "golsVisitante": null,
    "encerrado": false,
-   "situacao": "Scheduled",
+   "situacao": "Second Half",
    "conferencia": "sozinho",
    "fontes": [
     "espn"
@@ -5201,7 +5201,7 @@
    "golsMandante": null,
    "golsVisitante": null,
    "encerrado": false,
-   "situacao": "Scheduled",
+   "situacao": "Halftime",
    "fontes": [
     "espn",
     "fotmob"

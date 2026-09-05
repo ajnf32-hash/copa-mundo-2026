@@ -6,7 +6,7 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-05T20:37:20.650Z",
+ "atualizado": "2026-09-05T22:30:21.698Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -53,6 +53,20 @@
   {
    "posicao": 4,
    "grupo": "",
+   "time": "Deportivo",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+   "pontos": 8,
+   "jogos": 4,
+   "vitorias": 2,
+   "empates": 2,
+   "derrotas": 0,
+   "golsPro": 8,
+   "golsContra": 5,
+   "saldo": 3
+  },
+  {
+   "posicao": 5,
+   "grupo": "",
    "time": "Alavés",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
    "pontos": 7,
@@ -65,7 +79,7 @@
    "saldo": 4
   },
   {
-   "posicao": 5,
+   "posicao": 6,
    "grupo": "",
    "time": "Osasuna",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
@@ -79,7 +93,7 @@
    "saldo": 2
   },
   {
-   "posicao": 6,
+   "posicao": 7,
    "grupo": "",
    "time": "Atlético de Madrid",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
@@ -93,7 +107,7 @@
    "saldo": 1
   },
   {
-   "posicao": 7,
+   "posicao": 8,
    "grupo": "",
    "time": "Athletic Bilbao",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
@@ -107,7 +121,7 @@
    "saldo": 1
   },
   {
-   "posicao": 8,
+   "posicao": 9,
    "grupo": "",
    "time": "Sevilla",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
@@ -119,20 +133,6 @@
    "golsPro": 6,
    "golsContra": 5,
    "saldo": 1
-  },
-  {
-   "posicao": 9,
-   "grupo": "",
-   "time": "Deportivo",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-   "pontos": 5,
-   "jogos": 3,
-   "vitorias": 1,
-   "empates": 2,
-   "derrotas": 0,
-   "golsPro": 5,
-   "golsContra": 3,
-   "saldo": 2
   },
   {
    "posicao": 10,
@@ -224,13 +224,13 @@
    "time": "Villarreal",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
    "pontos": 2,
-   "jogos": 3,
+   "jogos": 4,
    "vitorias": 0,
    "empates": 2,
-   "derrotas": 1,
-   "golsPro": 4,
-   "golsContra": 5,
-   "saldo": -1
+   "derrotas": 2,
+   "golsPro": 6,
+   "golsContra": 8,
+   "saldo": -2
   },
   {
    "posicao": 17,
@@ -959,10 +959,10 @@
    "visitante": "Deportivo",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Scheduled",
+   "golsMandante": 2,
+   "golsVisitante": 3,
+   "encerrado": true,
+   "situacao": "Full Time",
    "conferencia": "sozinho",
    "fontes": [
     "espn"

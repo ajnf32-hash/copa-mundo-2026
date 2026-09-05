@@ -6,10 +6,24 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-05T20:37:21.399Z",
+ "atualizado": "2026-09-05T22:30:22.339Z",
  "classificacao": [
   {
    "posicao": 1,
+   "grupo": "",
+   "time": "Roma",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+   "pontos": 9,
+   "jogos": 3,
+   "vitorias": 3,
+   "empates": 0,
+   "derrotas": 0,
+   "golsPro": 10,
+   "golsContra": 1,
+   "saldo": 9
+  },
+  {
+   "posicao": 2,
    "grupo": "",
    "time": "Inter de Milão",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
@@ -23,7 +37,7 @@
    "saldo": 5
   },
   {
-   "posicao": 2,
+   "posicao": 3,
    "grupo": "",
    "time": "Como",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
@@ -35,20 +49,6 @@
    "golsPro": 7,
    "golsContra": 3,
    "saldo": 4
-  },
-  {
-   "posicao": 3,
-   "grupo": "",
-   "time": "Roma",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-   "pontos": 6,
-   "jogos": 2,
-   "vitorias": 2,
-   "empates": 0,
-   "derrotas": 0,
-   "golsPro": 8,
-   "golsContra": 0,
-   "saldo": 8
   },
   {
    "posicao": 4,
@@ -81,20 +81,6 @@
   {
    "posicao": 6,
    "grupo": "",
-   "time": "Atalanta",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-   "pontos": 6,
-   "jogos": 2,
-   "vitorias": 2,
-   "empates": 0,
-   "derrotas": 0,
-   "golsPro": 3,
-   "golsContra": 1,
-   "saldo": 2
-  },
-  {
-   "posicao": 7,
-   "grupo": "",
    "time": "Lazio",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
    "pontos": 6,
@@ -105,6 +91,20 @@
    "golsPro": 2,
    "golsContra": 0,
    "saldo": 2
+  },
+  {
+   "posicao": 7,
+   "grupo": "",
+   "time": "Atalanta",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+   "pontos": 6,
+   "jogos": 3,
+   "vitorias": 2,
+   "empates": 0,
+   "derrotas": 1,
+   "golsPro": 4,
+   "golsContra": 3,
+   "saldo": 1
   },
   {
    "posicao": 8,
@@ -750,10 +750,10 @@
    "visitante": "Atalanta",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Scheduled",
+   "golsMandante": 2,
+   "golsVisitante": 1,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
