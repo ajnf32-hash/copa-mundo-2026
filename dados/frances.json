@@ -6,7 +6,7 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T20:37:56.440Z",
+ "atualizado": "2026-09-06T22:34:58.922Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -25,6 +25,20 @@
   {
    "posicao": 2,
    "grupo": "",
+   "time": "Paris FC",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+   "pontos": 7,
+   "jogos": 3,
+   "vitorias": 2,
+   "empates": 1,
+   "derrotas": 0,
+   "golsPro": 6,
+   "golsContra": 2,
+   "saldo": 4
+  },
+  {
+   "posicao": 3,
+   "grupo": "",
    "time": "Lyon",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
    "pontos": 7,
@@ -37,7 +51,7 @@
    "saldo": 4
   },
   {
-   "posicao": 3,
+   "posicao": 4,
    "grupo": "",
    "time": "Lille",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
@@ -51,7 +65,7 @@
    "saldo": 3
   },
   {
-   "posicao": 4,
+   "posicao": 5,
    "grupo": "",
    "time": "Rennes",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
@@ -65,7 +79,7 @@
    "saldo": 2
   },
   {
-   "posicao": 5,
+   "posicao": 6,
    "grupo": "",
    "time": "Strasbourg",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
@@ -79,7 +93,7 @@
    "saldo": 1
   },
   {
-   "posicao": 6,
+   "posicao": 7,
    "grupo": "",
    "time": "Brest",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
@@ -91,20 +105,6 @@
    "golsPro": 6,
    "golsContra": 5,
    "saldo": 1
-  },
-  {
-   "posicao": 7,
-   "grupo": "",
-   "time": "Paris FC",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-   "pontos": 4,
-   "jogos": 2,
-   "vitorias": 1,
-   "empates": 1,
-   "derrotas": 0,
-   "golsPro": 3,
-   "golsContra": 0,
-   "saldo": 3
   },
   {
    "posicao": 8,
@@ -140,13 +140,13 @@
    "time": "Marselha",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
    "pontos": 3,
-   "jogos": 2,
+   "jogos": 3,
    "vitorias": 1,
    "empates": 0,
-   "derrotas": 1,
-   "golsPro": 4,
-   "golsContra": 2,
-   "saldo": 2
+   "derrotas": 2,
+   "golsPro": 6,
+   "golsContra": 5,
+   "saldo": 1
   },
   {
    "posicao": 11,
@@ -787,7 +787,7 @@
     "espn",
     "fotmob"
    ],
-   "conferencia": "confirmado"
+   "conferencia": "sozinho"
   },
   {
    "data": "2026-09-11",

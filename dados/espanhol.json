@@ -6,7 +6,7 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T20:37:54.673Z",
+ "atualizado": "2026-09-06T22:34:56.352Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -95,6 +95,20 @@
   {
    "posicao": 7,
    "grupo": "",
+   "time": "Sevilla",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+   "pontos": 7,
+   "jogos": 4,
+   "vitorias": 2,
+   "empates": 1,
+   "derrotas": 1,
+   "golsPro": 7,
+   "golsContra": 6,
+   "saldo": 1
+  },
+  {
+   "posicao": 8,
+   "grupo": "",
    "time": "Osasuna",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
    "pontos": 7,
@@ -107,7 +121,7 @@
    "saldo": -1
   },
   {
-   "posicao": 8,
+   "posicao": 9,
    "grupo": "",
    "time": "Athletic Bilbao",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
@@ -116,20 +130,6 @@
    "vitorias": 2,
    "empates": 0,
    "derrotas": 2,
-   "golsPro": 6,
-   "golsContra": 5,
-   "saldo": 1
-  },
-  {
-   "posicao": 9,
-   "grupo": "",
-   "time": "Sevilla",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-   "pontos": 6,
-   "jogos": 3,
-   "vitorias": 2,
-   "empates": 0,
-   "derrotas": 1,
    "golsPro": 6,
    "golsContra": 5,
    "saldo": 1
@@ -151,6 +151,20 @@
   {
    "posicao": 11,
    "grupo": "",
+   "time": "Espanyol",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "pontos": 4,
+   "jogos": 4,
+   "vitorias": 1,
+   "empates": 1,
+   "derrotas": 2,
+   "golsPro": 6,
+   "golsContra": 5,
+   "saldo": 1
+  },
+  {
+   "posicao": 12,
+   "grupo": "",
    "time": "Racing Santander",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
    "pontos": 4,
@@ -163,7 +177,7 @@
    "saldo": -1
   },
   {
-   "posicao": 12,
+   "posicao": 13,
    "grupo": "",
    "time": "Rayo Vallecano",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
@@ -177,7 +191,7 @@
    "saldo": -3
   },
   {
-   "posicao": 13,
+   "posicao": 14,
    "grupo": "",
    "time": "Real Sociedad",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
@@ -189,20 +203,6 @@
    "golsPro": 3,
    "golsContra": 6,
    "saldo": -3
-  },
-  {
-   "posicao": 14,
-   "grupo": "",
-   "time": "Espanyol",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-   "pontos": 3,
-   "jogos": 3,
-   "vitorias": 1,
-   "empates": 0,
-   "derrotas": 2,
-   "golsPro": 5,
-   "golsContra": 4,
-   "saldo": 1
   },
   {
    "posicao": 15,
@@ -1044,7 +1044,7 @@
     "espn",
     "fotmob"
    ],
-   "conferencia": "confirmado"
+   "conferencia": "sozinho"
   },
   {
    "data": "2026-09-07",

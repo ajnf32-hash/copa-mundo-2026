@@ -6,7 +6,7 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T20:37:55.237Z",
+ "atualizado": "2026-09-06T22:34:57.260Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -53,6 +53,34 @@
   {
    "posicao": 4,
    "grupo": "",
+   "time": "Milan",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+   "pontos": 7,
+   "jogos": 3,
+   "vitorias": 2,
+   "empates": 1,
+   "derrotas": 0,
+   "golsPro": 5,
+   "golsContra": 2,
+   "saldo": 3
+  },
+  {
+   "posicao": 5,
+   "grupo": "",
+   "time": "Juventus",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+   "pontos": 7,
+   "jogos": 3,
+   "vitorias": 2,
+   "empates": 1,
+   "derrotas": 0,
+   "golsPro": 4,
+   "golsContra": 1,
+   "saldo": 3
+  },
+  {
+   "posicao": 6,
+   "grupo": "",
    "time": "Frosinone",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
    "pontos": 6,
@@ -62,34 +90,6 @@
    "derrotas": 1,
    "golsPro": 6,
    "golsContra": 3,
-   "saldo": 3
-  },
-  {
-   "posicao": 5,
-   "grupo": "",
-   "time": "Milan",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-   "pontos": 6,
-   "jogos": 2,
-   "vitorias": 2,
-   "empates": 0,
-   "derrotas": 0,
-   "golsPro": 4,
-   "golsContra": 1,
-   "saldo": 3
-  },
-  {
-   "posicao": 6,
-   "grupo": "",
-   "time": "Juventus",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-   "pontos": 6,
-   "jogos": 2,
-   "vitorias": 2,
-   "empates": 0,
-   "derrotas": 0,
-   "golsPro": 3,
-   "golsContra": 0,
    "saldo": 3
   },
   {
@@ -837,7 +837,7 @@
     "espn",
     "fotmob"
    ],
-   "conferencia": "confirmado"
+   "conferencia": "sozinho"
   },
   {
    "data": "2026-09-07",

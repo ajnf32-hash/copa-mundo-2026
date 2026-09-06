@@ -6,10 +6,24 @@
  "temporada": 2026,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T20:37:41.188Z",
+ "atualizado": "2026-09-06T22:34:38.589Z",
  "classificacao": [
   {
    "posicao": 1,
+   "grupo": "",
+   "time": "Flamengo",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+   "pontos": 54,
+   "jogos": 26,
+   "vitorias": 16,
+   "empates": 6,
+   "derrotas": 4,
+   "golsPro": 51,
+   "golsContra": 21,
+   "saldo": 30
+  },
+  {
+   "posicao": 2,
    "grupo": "",
    "time": "Palmeiras",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
@@ -23,32 +37,18 @@
    "saldo": 24
   },
   {
-   "posicao": 2,
-   "grupo": "",
-   "time": "Flamengo",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-   "pontos": 51,
-   "jogos": 25,
-   "vitorias": 15,
-   "empates": 6,
-   "derrotas": 4,
-   "golsPro": 50,
-   "golsContra": 21,
-   "saldo": 29
-  },
-  {
    "posicao": 3,
    "grupo": "",
    "time": "Athletico Paranaense",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
    "pontos": 45,
-   "jogos": 25,
+   "jogos": 26,
    "vitorias": 13,
    "empates": 6,
-   "derrotas": 6,
-   "golsPro": 37,
-   "golsContra": 25,
-   "saldo": 12
+   "derrotas": 7,
+   "golsPro": 38,
+   "golsContra": 28,
+   "saldo": 10
   },
   {
    "posicao": 4,
@@ -83,14 +83,14 @@
    "grupo": "",
    "time": "Cruzeiro",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-   "pontos": 39,
-   "jogos": 25,
-   "vitorias": 11,
+   "pontos": 42,
+   "jogos": 26,
+   "vitorias": 12,
    "empates": 6,
    "derrotas": 8,
-   "golsPro": 35,
-   "golsContra": 36,
-   "saldo": -1
+   "golsPro": 38,
+   "golsContra": 37,
+   "saldo": 1
   },
   {
    "posicao": 7,
@@ -165,6 +165,20 @@
   {
    "posicao": 12,
    "grupo": "",
+   "time": "Santos",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+   "pontos": 32,
+   "jogos": 25,
+   "vitorias": 8,
+   "empates": 8,
+   "derrotas": 9,
+   "golsPro": 37,
+   "golsContra": 38,
+   "saldo": -1
+  },
+  {
+   "posicao": 13,
+   "grupo": "",
    "time": "Botafogo",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
    "pontos": 30,
@@ -177,7 +191,7 @@
    "saldo": -3
   },
   {
-   "posicao": 13,
+   "posicao": 14,
    "grupo": "",
    "time": "Vitória",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
@@ -189,20 +203,6 @@
    "golsPro": 24,
    "golsContra": 37,
    "saldo": -13
-  },
-  {
-   "posicao": 14,
-   "grupo": "",
-   "time": "Santos",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-   "pontos": 29,
-   "jogos": 24,
-   "vitorias": 7,
-   "empates": 8,
-   "derrotas": 9,
-   "golsPro": 34,
-   "golsContra": 36,
-   "saldo": -2
   },
   {
    "posicao": 15,
@@ -252,13 +252,13 @@
    "time": "Internacional",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
    "pontos": 25,
-   "jogos": 25,
+   "jogos": 26,
    "vitorias": 5,
    "empates": 10,
-   "derrotas": 10,
-   "golsPro": 26,
-   "golsContra": 31,
-   "saldo": -5
+   "derrotas": 11,
+   "golsPro": 28,
+   "golsContra": 34,
+   "saldo": -6
   },
   {
    "posicao": 19,
@@ -266,13 +266,13 @@
    "time": "Remo",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
    "pontos": 23,
-   "jogos": 25,
+   "jogos": 26,
    "vitorias": 5,
    "empates": 8,
-   "derrotas": 12,
+   "derrotas": 13,
    "golsPro": 30,
-   "golsContra": 42,
-   "saldo": -12
+   "golsContra": 43,
+   "saldo": -13
   },
   {
    "posicao": 20,
@@ -4425,7 +4425,7 @@
     "espn",
     "fotmob"
    ],
-   "conferencia": "confirmado"
+   "conferencia": "sozinho"
   },
   {
    "data": "2026-09-06",
@@ -4445,7 +4445,7 @@
     "espn",
     "fotmob"
    ],
-   "conferencia": "confirmado"
+   "conferencia": "sozinho"
   },
   {
    "data": "2026-09-06",
@@ -4465,7 +4465,7 @@
     "espn",
     "fotmob"
    ],
-   "conferencia": "confirmado"
+   "conferencia": "sozinho"
   },
   {
    "data": "2026-09-06",
