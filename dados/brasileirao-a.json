@@ -6,7 +6,7 @@
  "temporada": 2026,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T16:02:01.107Z",
+ "atualizado": "2026-09-06T18:27:14.019Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -98,13 +98,13 @@
    "time": "Coritiba",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
    "pontos": 37,
-   "jogos": 25,
+   "jogos": 26,
    "vitorias": 10,
    "empates": 7,
-   "derrotas": 8,
-   "golsPro": 33,
-   "golsContra": 33,
-   "saldo": 0
+   "derrotas": 9,
+   "golsPro": 34,
+   "golsContra": 35,
+   "saldo": -1
   },
   {
    "posicao": 8,
@@ -223,14 +223,14 @@
    "grupo": "",
    "time": "Mirassol",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-   "pontos": 25,
-   "jogos": 25,
-   "vitorias": 6,
+   "pontos": 28,
+   "jogos": 26,
+   "vitorias": 7,
    "empates": 7,
    "derrotas": 12,
-   "golsPro": 27,
-   "golsContra": 39,
-   "saldo": -12
+   "golsPro": 29,
+   "golsContra": 40,
+   "saldo": -11
   },
   {
    "posicao": 17,
@@ -4405,7 +4405,7 @@
     "espn",
     "fotmob"
    ],
-   "conferencia": "confirmado"
+   "conferencia": "sozinho"
   },
   {
    "data": "2026-09-06",

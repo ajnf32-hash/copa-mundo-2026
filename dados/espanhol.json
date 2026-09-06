@@ -6,21 +6,21 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T16:02:16.550Z",
+ "atualizado": "2026-09-06T18:27:30.875Z",
  "classificacao": [
   {
    "posicao": 1,
    "grupo": "",
    "time": "Barcelona",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-   "pontos": 9,
-   "jogos": 3,
-   "vitorias": 3,
+   "pontos": 12,
+   "jogos": 4,
+   "vitorias": 4,
    "empates": 0,
    "derrotas": 0,
-   "golsPro": 12,
+   "golsPro": 17,
    "golsContra": 2,
-   "saldo": 10
+   "saldo": 15
   },
   {
    "posicao": 2,
@@ -139,10 +139,10 @@
    "grupo": "",
    "time": "Levante",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-   "pontos": 4,
-   "jogos": 3,
+   "pontos": 5,
+   "jogos": 4,
    "vitorias": 1,
-   "empates": 1,
+   "empates": 2,
    "derrotas": 1,
    "golsPro": 5,
    "golsContra": 5,
@@ -249,16 +249,16 @@
   {
    "posicao": 18,
    "grupo": "",
-   "time": "Valencia",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-   "pontos": 1,
-   "jogos": 3,
+   "time": "Málaga",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+   "pontos": 2,
+   "jogos": 4,
    "vitorias": 0,
-   "empates": 1,
+   "empates": 2,
    "derrotas": 2,
    "golsPro": 1,
-   "golsContra": 4,
-   "saldo": -3
+   "golsContra": 7,
+   "saldo": -6
   },
   {
    "posicao": 19,
@@ -277,16 +277,16 @@
   {
    "posicao": 20,
    "grupo": "",
-   "time": "Málaga",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+   "time": "Valencia",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
    "pontos": 1,
-   "jogos": 3,
+   "jogos": 4,
    "vitorias": 0,
    "empates": 1,
-   "derrotas": 2,
+   "derrotas": 3,
    "golsPro": 1,
-   "golsContra": 7,
-   "saldo": -6
+   "golsContra": 9,
+   "saldo": -8
   }
  ],
  "jogos": [
@@ -984,7 +984,7 @@
     "espn",
     "fotmob"
    ],
-   "conferencia": "confirmado"
+   "conferencia": "sozinho"
   },
   {
    "data": "2026-09-06",
@@ -1024,7 +1024,7 @@
     "espn",
     "fotmob"
    ],
-   "conferencia": "confirmado"
+   "conferencia": "sozinho"
   },
   {
    "data": "2026-09-06",

@@ -6,7 +6,7 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T16:02:18.341Z",
+ "atualizado": "2026-09-06T18:27:33.191Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -53,6 +53,20 @@
   {
    "posicao": 4,
    "grupo": "",
+   "time": "Rennes",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+   "pontos": 7,
+   "jogos": 3,
+   "vitorias": 2,
+   "empates": 1,
+   "derrotas": 0,
+   "golsPro": 7,
+   "golsContra": 5,
+   "saldo": 2
+  },
+  {
+   "posicao": 5,
+   "grupo": "",
    "time": "Strasbourg",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
    "pontos": 6,
@@ -65,7 +79,7 @@
    "saldo": 1
   },
   {
-   "posicao": 5,
+   "posicao": 6,
    "grupo": "",
    "time": "Brest",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
@@ -79,7 +93,7 @@
    "saldo": 1
   },
   {
-   "posicao": 6,
+   "posicao": 7,
    "grupo": "",
    "time": "Paris FC",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
@@ -91,20 +105,6 @@
    "golsPro": 3,
    "golsContra": 0,
    "saldo": 3
-  },
-  {
-   "posicao": 7,
-   "grupo": "",
-   "time": "Rennes",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-   "pontos": 4,
-   "jogos": 2,
-   "vitorias": 1,
-   "empates": 1,
-   "derrotas": 0,
-   "golsPro": 5,
-   "golsContra": 4,
-   "saldo": 1
   },
   {
    "posicao": 8,
@@ -168,13 +168,13 @@
    "time": "Angers",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
    "pontos": 3,
-   "jogos": 2,
+   "jogos": 3,
    "vitorias": 1,
    "empates": 0,
-   "derrotas": 1,
-   "golsPro": 3,
-   "golsContra": 3,
-   "saldo": 0
+   "derrotas": 2,
+   "golsPro": 4,
+   "golsContra": 5,
+   "saldo": -1
   },
   {
    "posicao": 13,
