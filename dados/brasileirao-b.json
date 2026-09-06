@@ -6,10 +6,24 @@
  "temporada": 2026,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-05T22:30:13.190Z",
+ "atualizado": "2026-09-06T00:08:54.481Z",
  "classificacao": [
   {
    "posicao": 1,
+   "grupo": "",
+   "time": "Juventude",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
+   "pontos": 47,
+   "jogos": 26,
+   "vitorias": 13,
+   "empates": 8,
+   "derrotas": 5,
+   "golsPro": 28,
+   "golsContra": 15,
+   "saldo": 13
+  },
+  {
+   "posicao": 2,
    "grupo": "",
    "time": "Criciúma",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
@@ -23,7 +37,7 @@
    "saldo": 9
   },
   {
-   "posicao": 2,
+   "posicao": 3,
    "grupo": "",
    "time": "Novorizontino",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/18127.png",
@@ -35,20 +49,6 @@
    "golsPro": 44,
    "golsContra": 23,
    "saldo": 21
-  },
-  {
-   "posicao": 3,
-   "grupo": "",
-   "time": "Juventude",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
-   "pontos": 46,
-   "jogos": 25,
-   "vitorias": 13,
-   "empates": 7,
-   "derrotas": 5,
-   "golsPro": 26,
-   "golsContra": 13,
-   "saldo": 13
   },
   {
    "posicao": 4,
@@ -97,13 +97,13 @@
    "grupo": "",
    "time": "Atlético Goianiense",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/10357.png",
-   "pontos": 39,
-   "jogos": 25,
+   "pontos": 40,
+   "jogos": 26,
    "vitorias": 10,
-   "empates": 9,
+   "empates": 10,
    "derrotas": 6,
-   "golsPro": 28,
-   "golsContra": 23,
+   "golsPro": 30,
+   "golsContra": 25,
    "saldo": 5
   },
   {
@@ -112,13 +112,13 @@
    "time": "Sport",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/7635.png",
    "pontos": 38,
-   "jogos": 25,
+   "jogos": 26,
    "vitorias": 9,
    "empates": 11,
-   "derrotas": 5,
-   "golsPro": 33,
-   "golsContra": 24,
-   "saldo": 9
+   "derrotas": 6,
+   "golsPro": 34,
+   "golsContra": 26,
+   "saldo": 8
   },
   {
    "posicao": 9,
@@ -221,6 +221,20 @@
   {
    "posicao": 16,
    "grupo": "",
+   "time": "Ceará",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/9969.png",
+   "pontos": 31,
+   "jogos": 26,
+   "vitorias": 8,
+   "empates": 7,
+   "derrotas": 11,
+   "golsPro": 27,
+   "golsContra": 33,
+   "saldo": -6
+  },
+  {
+   "posicao": 17,
+   "grupo": "",
    "time": "Avaí",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
    "pontos": 29,
@@ -231,20 +245,6 @@
    "golsPro": 28,
    "golsContra": 34,
    "saldo": -6
-  },
-  {
-   "posicao": 17,
-   "grupo": "",
-   "time": "Ceará",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/9969.png",
-   "pontos": 28,
-   "jogos": 25,
-   "vitorias": 7,
-   "empates": 7,
-   "derrotas": 11,
-   "golsPro": 25,
-   "golsContra": 32,
-   "saldo": -7
   },
   {
    "posicao": 18,
@@ -4864,11 +4864,10 @@
    "golsVisitante": 1,
    "encerrado": true,
    "situacao": "Full Time",
+   "conferencia": "historico",
    "fontes": [
-    "espn",
-    "fotmob"
-   ],
-   "conferencia": "confirmado"
+    "espn"
+   ]
   },
   {
    "data": "2026-08-28",
@@ -4884,11 +4883,10 @@
    "golsVisitante": 1,
    "encerrado": true,
    "situacao": "Full Time",
+   "conferencia": "historico",
    "fontes": [
-    "espn",
-    "fotmob"
-   ],
-   "conferencia": "confirmado"
+    "espn"
+   ]
   },
   {
    "data": "2026-08-28",
@@ -4904,11 +4902,10 @@
    "golsVisitante": 1,
    "encerrado": true,
    "situacao": "Full Time",
+   "conferencia": "historico",
    "fontes": [
-    "espn",
-    "fotmob"
-   ],
-   "conferencia": "confirmado"
+    "espn"
+   ]
   },
   {
    "data": "2026-08-29",
@@ -5179,10 +5176,10 @@
    "visitante": "Atlético Goianiense",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/10357.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Second Half",
+   "golsMandante": 2,
+   "golsVisitante": 2,
+   "encerrado": true,
+   "situacao": "Full Time",
    "conferencia": "sozinho",
    "fontes": [
     "espn"
@@ -5198,10 +5195,10 @@
    "visitante": "Sport",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9969.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/7635.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Halftime",
+   "golsMandante": 2,
+   "golsVisitante": 1,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
