@@ -6,7 +6,7 @@
  "temporada": 2026,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T00:08:46.722Z",
+ "atualizado": "2026-09-06T04:54:27.668Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -53,6 +53,20 @@
   {
    "posicao": 4,
    "grupo": "",
+   "time": "Fluminense",
+   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
+   "pontos": 45,
+   "jogos": 26,
+   "vitorias": 12,
+   "empates": 9,
+   "derrotas": 5,
+   "golsPro": 40,
+   "golsContra": 32,
+   "saldo": 8
+  },
+  {
+   "posicao": 5,
+   "grupo": "",
    "time": "Bahia",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
    "pontos": 43,
@@ -63,20 +77,6 @@
    "golsPro": 40,
    "golsContra": 32,
    "saldo": 8
-  },
-  {
-   "posicao": 5,
-   "grupo": "",
-   "time": "Fluminense",
-   "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
-   "pontos": 42,
-   "jogos": 25,
-   "vitorias": 11,
-   "empates": 9,
-   "derrotas": 5,
-   "golsPro": 39,
-   "golsContra": 32,
-   "saldo": 7
   },
   {
    "posicao": 6,
@@ -238,13 +238,13 @@
    "time": "Vasco da Gama",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
    "pontos": 25,
-   "jogos": 24,
+   "jogos": 25,
    "vitorias": 6,
    "empates": 7,
-   "derrotas": 11,
+   "derrotas": 12,
    "golsPro": 27,
-   "golsContra": 39,
-   "saldo": -12
+   "golsContra": 40,
+   "saldo": -13
   },
   {
    "posicao": 18,
@@ -4377,10 +4377,10 @@
    "visitante": "Vasco da Gama",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "First Half",
+   "golsMandante": 1,
+   "golsVisitante": 0,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
