@@ -6,7 +6,7 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T18:27:33.191Z",
+ "atualizado": "2026-09-06T20:37:56.440Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -760,10 +760,10 @@
    "visitante": "Rennes",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "First Half",
+   "golsMandante": 1,
+   "golsVisitante": 2,
+   "encerrado": true,
+   "situacao": "Full Time",
    "conferencia": "sozinho",
    "fontes": [
     "espn"
@@ -782,7 +782,7 @@
    "golsMandante": null,
    "golsVisitante": null,
    "encerrado": false,
-   "situacao": "Scheduled",
+   "situacao": "Second Half",
    "fontes": [
     "espn",
     "fotmob"

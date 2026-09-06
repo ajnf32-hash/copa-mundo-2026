@@ -6,7 +6,7 @@
  "temporada": 2027,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T18:27:30.049Z",
+ "atualizado": "2026-09-06T20:37:54.104Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -867,15 +867,15 @@
    "visitante": "Chelsea",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "First Half",
+   "golsMandante": 2,
+   "golsVisitante": 1,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
    ],
-   "conferencia": "sozinho"
+   "conferencia": "confirmado"
   },
   {
    "data": "2026-09-12",
