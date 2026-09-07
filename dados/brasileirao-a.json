@@ -6,7 +6,7 @@
  "temporada": 2026,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T22:34:38.589Z",
+ "atualizado": "2026-09-07T00:31:20.798Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -27,10 +27,10 @@
    "grupo": "",
    "time": "Palmeiras",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-   "pontos": 52,
-   "jogos": 25,
+   "pontos": 53,
+   "jogos": 26,
    "vitorias": 15,
-   "empates": 7,
+   "empates": 8,
    "derrotas": 3,
    "golsPro": 45,
    "golsContra": 21,
@@ -181,10 +181,10 @@
    "grupo": "",
    "time": "Botafogo",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
-   "pontos": 30,
-   "jogos": 24,
+   "pontos": 31,
+   "jogos": 25,
    "vitorias": 8,
-   "empates": 6,
+   "empates": 7,
    "derrotas": 10,
    "golsPro": 37,
    "golsContra": 40,
@@ -4123,11 +4123,10 @@
    "golsVisitante": 1,
    "encerrado": true,
    "situacao": "Full Time",
+   "conferencia": "historico",
    "fontes": [
-    "espn",
-    "fotmob"
-   ],
-   "conferencia": "confirmado"
+    "espn"
+   ]
   },
   {
    "data": "2026-08-29",
@@ -4143,7 +4142,7 @@
    "golsVisitante": 1,
    "encerrado": true,
    "situacao": "Full Time",
-   "conferencia": "sozinho",
+   "conferencia": "historico",
    "fontes": [
     "espn"
    ]
@@ -4417,15 +4416,15 @@
    "visitante": "Athletico-PR",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Second Half",
+   "golsMandante": 3,
+   "golsVisitante": 1,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
    ],
-   "conferencia": "sozinho"
+   "conferencia": "confirmado"
   },
   {
    "data": "2026-09-06",
@@ -4437,15 +4436,15 @@
    "visitante": "Santos",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Second Half",
+   "golsMandante": 2,
+   "golsVisitante": 3,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
    ],
-   "conferencia": "sozinho"
+   "conferencia": "confirmado"
   },
   {
    "data": "2026-09-06",
@@ -4457,15 +4456,15 @@
    "visitante": "Flamengo",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Second Half",
+   "golsMandante": 0,
+   "golsVisitante": 1,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
    ],
-   "conferencia": "sozinho"
+   "conferencia": "confirmado"
   },
   {
    "data": "2026-09-06",
@@ -4477,10 +4476,10 @@
    "visitante": "Palmeiras",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Scheduled",
+   "golsMandante": 0,
+   "golsVisitante": 0,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
@@ -4500,7 +4499,7 @@
    "golsMandante": null,
    "golsVisitante": null,
    "encerrado": false,
-   "situacao": "Scheduled",
+   "situacao": "Second Half",
    "fontes": [
     "espn",
     "fotmob"

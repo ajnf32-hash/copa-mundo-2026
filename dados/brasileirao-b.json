@@ -6,7 +6,7 @@
  "temporada": 2026,
  "temporadaTabela": 2026,
  "origemTabela": "fonte",
- "atualizado": "2026-09-06T22:34:48.762Z",
+ "atualizado": "2026-09-07T00:31:29.601Z",
  "classificacao": [
   {
    "posicao": 1,
@@ -195,14 +195,14 @@
    "grupo": "",
    "time": "São Bernardo",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/11268.png",
-   "pontos": 32,
-   "jogos": 25,
-   "vitorias": 8,
+   "pontos": 35,
+   "jogos": 26,
+   "vitorias": 9,
    "empates": 8,
    "derrotas": 9,
-   "golsPro": 34,
+   "golsPro": 36,
    "golsContra": 29,
-   "saldo": 5
+   "saldo": 7
   },
   {
    "posicao": 15,
@@ -280,13 +280,13 @@
    "time": "Ponte Preta",
    "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/3459.png",
    "pontos": 10,
-   "jogos": 25,
+   "jogos": 26,
    "vitorias": 2,
    "empates": 4,
-   "derrotas": 19,
+   "derrotas": 20,
    "golsPro": 16,
-   "golsContra": 52,
-   "saldo": -36
+   "golsContra": 54,
+   "saldo": -38
   }
  ],
  "jogos": [
@@ -4921,11 +4921,10 @@
    "golsVisitante": 2,
    "encerrado": true,
    "situacao": "Full Time",
+   "conferencia": "historico",
    "fontes": [
-    "espn",
-    "fotmob"
-   ],
-   "conferencia": "confirmado"
+    "espn"
+   ]
   },
   {
    "data": "2026-08-30",
@@ -5235,10 +5234,10 @@
    "visitante": "São Bernardo",
    "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3459.png",
    "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/11268.png",
-   "golsMandante": null,
-   "golsVisitante": null,
-   "encerrado": false,
-   "situacao": "Scheduled",
+   "golsMandante": 0,
+   "golsVisitante": 2,
+   "encerrado": true,
+   "situacao": "Full Time",
    "fontes": [
     "espn",
     "fotmob"
